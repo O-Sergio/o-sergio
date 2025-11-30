@@ -26,5 +26,3 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e experiment
 
 * 📧 Email: serginhonsv@gmail.com
 * 🌐 Portfólio: *em construção*
-
-Obrigado por visitar! Sinta-se à vontade para explorar meus projetos ou entrar em contato. 🙌
