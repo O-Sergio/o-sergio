@@ -1,13 +1,6 @@
 # 👋 Olá! Eu sou Sérgio Nunes
 
-Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e experimentos no mundo do **desenvolvimento web e front-end**.
-
----
-
-## 🚀 Sobre mim
-* 💻 Apaixonado por tecnologia, criação de sistemas e desenvolvimento de interfaces.
-* 🎮 Criador do sistema de RPG **AMALGHERO**, onde exploro mecânicas, design e narrativa.
-* 🛠 Atualmente focado em aprender e dominar **Front-end Development**.
+Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e experimentos no mundo do **desenvolvimento front-end**.
 
 ---
 
