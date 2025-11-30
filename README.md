@@ -5,8 +5,6 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e experiment
 ---
 
 ## 🚀 Sobre mim
-
-* 🎓 Estudante de **Radiologia** e desenvolvedor em formação.
 * 💻 Apaixonado por tecnologia, criação de sistemas e desenvolvimento de interfaces.
 * 🎮 Criador do sistema de RPG **AMALGHERO**, onde exploro mecânicas, design e narrativa.
 * 🛠 Atualmente focado em aprender e dominar **Front-end Development**.
