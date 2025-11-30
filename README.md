@@ -20,16 +20,11 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, estudos e experiment
 
 * *Em breve: meus primeiros projetos!*
 
-### 🎲 AMALGHERO
-
-* Sistema próprio de RPG baseado em super-heróis.
-* Construção detalhada de ficha, mecânicas e narração.
-
 ---
 
 ## 📫 Contato
 
-* 📧 Email: *adicione aqui seu email*
+* 📧 Email: serginhonsv@gmail.com
 * 🌐 Portfólio: *em construção*
 
 Obrigado por visitar! Sinta-se à vontade para explorar meus projetos ou entrar em contato. 🙌
